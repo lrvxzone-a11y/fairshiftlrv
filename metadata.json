@@ -1,0 +1,6 @@
+{
+  "name": "FairShift - Decent Work Platform (UN SDG 8)",
+  "description": "Multi-industry workforce platform for employee-intensive organisations: QR shift tracking, voice-enabled payslips, anonymous feedback, hazard reporting, skill passport, and fatigue prevention.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
